@@ -15,3 +15,13 @@ function sayHiToGrandma(string) {
     console.log("I can't hear you!")
   }
 }
+function sayHiToGrandma(string) {
+  if (string.toUpperCase()) === string) {
+    console.log("YES INDEED!")
+  }
+}
+function sayHiToGrandma(string) {
+  if (string === "I love you, Grandma.") {
+    console.log("I love you, too.")
+  }
+}
